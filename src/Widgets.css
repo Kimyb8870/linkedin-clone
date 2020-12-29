@@ -42,3 +42,8 @@
 .widgets__articleLeft > .MuiSvgIcon-root {
   font-size: 15px;
 }
+
+.widgets__articleRight > p {
+  font-size: 15px;
+  color: gray;
+}
